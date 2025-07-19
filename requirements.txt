@@ -1,4 +1,0 @@
-steamlit
-pandas
-scikit-learn
-openpyxl
